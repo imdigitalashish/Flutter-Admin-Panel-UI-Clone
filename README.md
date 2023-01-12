@@ -1,6 +1,7 @@
 # anotheruselessapp
 
 A new Flutter project.
+You can check it out using flutter web build
 
 ## Getting Started
 
